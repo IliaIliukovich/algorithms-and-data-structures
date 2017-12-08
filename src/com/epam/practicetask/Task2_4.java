@@ -87,9 +87,8 @@ public class Task2_4 {
         @Override
         public String toString() {
             StringBuilder stringBuilder = new StringBuilder();
-            Iterator<Integer> iterator = iterator();
-            while (iterator.hasNext()) {
-                stringBuilder.append(" " + iterator.next());
+            for (Integer integer : this) {
+                stringBuilder.append(" ").append(integer);
             }
             return stringBuilder.toString();
         }
