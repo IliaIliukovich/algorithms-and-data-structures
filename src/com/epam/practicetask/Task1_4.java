@@ -1,4 +1,4 @@
-package com.epam;
+package com.epam.practicetask;
 
 import java.util.Arrays;
 
