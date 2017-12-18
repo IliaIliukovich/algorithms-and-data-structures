@@ -1,4 +1,4 @@
-package com.epam.test;
+package com.epam.quizz;
 
 public class Task1 {
 
