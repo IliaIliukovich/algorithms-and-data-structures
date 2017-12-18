@@ -1,4 +1,4 @@
-package com.epam.quizz;
+package com.epam.test;
 
 import java.util.Arrays;
 

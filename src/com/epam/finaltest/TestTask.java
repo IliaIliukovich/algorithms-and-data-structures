@@ -1,4 +1,4 @@
-package com.epam.test;
+package com.epam.finaltest;
 
 import java.util.ArrayList;
 import java.util.Arrays;

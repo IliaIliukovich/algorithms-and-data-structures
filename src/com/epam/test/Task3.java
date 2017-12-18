@@ -1,10 +1,9 @@
-package com.epam.quizz;
+package com.epam.test;
 
 
 import java.time.LocalDateTime;
 import java.time.Month;
 import java.util.*;
-import java.util.concurrent.SynchronousQueue;
 import java.util.stream.Collectors;
 
 /* 3.	В компании epam проводятся N курсов. Каждый с датой начала и конца.
